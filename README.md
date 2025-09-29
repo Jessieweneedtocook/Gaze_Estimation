@@ -8,7 +8,7 @@ through a standard webcam.
 
 ![Interface](assets/Interface.png)
 
-📄 [Read the full report](docs/GAZE ESTIMATION PROJECT.pdf)
+📄 [Read the full report](docs/GAZE_ESTIMATION_PROJECT.pdf)
 
 ---
 *Note: The original project was developed as a prototype and is not open-sourced here, 
